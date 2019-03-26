@@ -1,1 +1,18 @@
-node_modules
+# iml
+*.iml
+
+# Dependency directories
+node_modules/
+
+# Optional npm cache directory
+.npm
+
+# dotenv environment variables file
+.env
+.idea/
+
+# generated code
+dist/
+
+# mac .DS_Store
+*.DS_Store
